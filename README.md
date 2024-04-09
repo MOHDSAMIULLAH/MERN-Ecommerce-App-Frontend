@@ -19,7 +19,11 @@
 * Admin Page:
   ![image](https://github.com/MOHDSAMIULLAH/MERN-Ecommerce-App-Frontend/assets/91786605/add2a9b7-280c-448b-9fb6-c48ab5393b26)
 
+### User login:
+  email: user@gmail.com
+  password: user
 
+  
 ## Description
 This is a full-stack e-commerce web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with additional features such as authentication, search functionality, filtering, and product uploading. The app is designed to be responsive and user-friendly, providing a seamless shopping experience for both customers and administrators.
 
